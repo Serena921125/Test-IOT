@@ -5,3 +5,6 @@ Ce que le projet va permettre :
 - les sotcker en
 - les afficher
 - utiliser Node-RED
+
+[Robot] https://figes.com.tr/wp-content/uploads/2021/01/Robots-Square.jpg
+
