@@ -10,7 +10,7 @@ Ce que le projet va permettre :
 
 """mermaid
 flowchart TD
-    mosquitto  --> |messages| rpi
+    mosquitto [serveur<br>Mosquitto]  --> |messages| rpi[Raspberry Pi<br>Node-RED<br>Documentation]
     rpi --> BDD
     rpi <--> Github
 """
