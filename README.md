@@ -8,7 +8,8 @@ Ce que le projet va permettre :
 
 ![Robot](https://figes.com.tr/wp-content/uploads/2021/01/Robots-Square.jpg)
 
-"""flowchart TD
+"""mermaid
+flowchart TD
     mosquitto  --> |messages| rpi
     rpi --> BDD
     rpi <--> Github
